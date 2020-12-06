@@ -1,0 +1,2 @@
+amount of 1000 transferred to ac/no 4545 from your ac/no 3434
+available balance:3900
